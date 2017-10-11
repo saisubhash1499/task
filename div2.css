@@ -1,0 +1,23 @@
+.sai1{
+	background-color:red;
+}
+.sai2{
+	background-color:yellow;
+}
+.sai5{
+	width:1500px;
+	height:500px;
+ outline:none;
+}
+.sai3{
+	width:500px;
+	 background-color:green;
+	 float:left;
+	height:500px
+}
+.sai4{
+ width:1000px;
+ background-color:blue;
+ float:right;
+height:500px;
+}

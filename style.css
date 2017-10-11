@@ -1,0 +1,10 @@
+.sai {
+	
+	background-color:red;
+	height:100px;
+	width:650px;
+}
+
+.parent{width:650px;height:400px;background:blue;overflow:hidden;}
+.one{width:100px;float:left;height:400px;background:green;}
+.two{background-color:yellow;height:100px;width:650px;}
